@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Steffan Dissing
+# Hello World! 👋 I'm Steffan Dissing
 
 ### **About Me**
 Together with my wife, I co-founded a brand that sells physical products through e-commerce and B2B.<br>
